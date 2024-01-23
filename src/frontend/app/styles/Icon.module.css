@@ -1,0 +1,13 @@
+.iconContainer {
+    position: fixed;
+    right: 60px;  
+    bottom: 60px; 
+    z-index: 997; 
+  }
+
+  .iconContainer img {
+    width: 88px;  
+    height: 88px;
+    border-radius: 30%;
+    cursor: pointer;
+  }
